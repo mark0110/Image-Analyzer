@@ -1,4 +1,4 @@
-# Cryptography
+# Image Analyzer
 
 CPS 109 - Computer Science I
 Course Project
