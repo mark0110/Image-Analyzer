@@ -3,7 +3,7 @@
 CPS 109 - Computer Science I
 Course Project
 
-This program lets you analyze an image by predicting what number is represented in the image
+This program lets you analyze an image by predicting what digit the image contains. The prediction is based on an Artificial Neural Network (ANN).
 
 ## How to Run?
 
